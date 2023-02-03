@@ -100,7 +100,7 @@ svg,img { max-width: 100%; height: auto; }
 /*-----------------------------------------------------------------
   1. >>> Headr Style
 ----------------------------------------------------------------*/
-.ds-header{ position: fixed; top: 0; width: 100%; z-index: 5; background-color: #292526; padding: 70px 0;transition-delay: 0s;transition-duration: 0.4s;transition-property: all;transition-timing-function: ease; }
+.ds-header{ position: fixed; top: 0; width: 100%; z-index: 5; background-color: #292526; padding: 50px 0;transition-delay: 0s;transition-duration: 0.4s;transition-property: all;transition-timing-function: ease; }
 .ds-header.ds-fixed-header{ padding:20px 0;box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.25); }
 .ds-header-inner{ display: flex; justify-content: space-between; align-items: center; }
 .ds-logo{ text-transform: uppercase; font-size: 18px; letter-spacing: 3px; color: #000; display: flex; align-items: center; }
@@ -110,7 +110,7 @@ svg,img { max-width: 100%; height: auto; }
 .ds-social{ list-style: none; display: flex; align-items: center; flex-wrap: wrap; }
 .ds-social li{ margin-left: 12px; }
 .ds-social li:first-child{ margin-left: 0; }
-.ds-social li a{ border-radius: 100%; color: #292526; width: 24px; height: 24px; background-color: #5DCAF3; display:flex; justify-content: center; align-items: center; text-align: center; font-size: 16px; }
+.ds-social li a{ border-radius: 100%; color: #292526; width: 28px; height: 28px; background-color: #5DCAF3; display:flex; justify-content: center; align-items: center; text-align: center; font-size: 16px; }
 .ds-social li a:hover{ background-color: #5DCAF3; color: #292526; }
 /*-----------------------------------------------------------------
   2. >>> Banner Style
